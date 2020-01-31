@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "serve": "vuepress dev src",
+    "build": "vuepress build src --dest dist"
+  },
+  "dependencies": {
+    "d3": "3",
+    "function-plot": "^1.19.1",
+    "lodash": "^4.17.15",
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-mathjax": "^1.2.8"
+  }
+}
